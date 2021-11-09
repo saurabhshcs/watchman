@@ -1,6 +1,10 @@
 ### Introduction
 > Watchman is an application thar basically helps seecurity gaurds for notifying their building/office residents and initiate on-time verification, authorisation and approvals for temporary access to the premises based on the resideents conqur.
 
+### Phase 1
+> This application will be divided into the 3 phases and phase is all about to gathering the basix requirements and create a blue-print of these requirements.
+> 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
