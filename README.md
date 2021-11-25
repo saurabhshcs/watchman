@@ -3,7 +3,12 @@
 
 ### Phase 1
 > This application will be divided into the 3 phases and phase is all about to gathering the basix requirements and create a blue-print of these requirements.
-> 
+
+### Reequirements:
+> Need to connect with business stackholders who will provide some business requirements.
+> We neeede to develop wiremocks to show the end to end user journey.
+
+
 
 # Getting Started with Create React App
 
